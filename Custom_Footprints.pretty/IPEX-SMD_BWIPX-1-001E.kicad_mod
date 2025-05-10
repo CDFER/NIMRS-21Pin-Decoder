@@ -1,0 +1,277 @@
+(footprint "IPEX-SMD_BWIPX-1-001E"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IPEX-SMD_BWIPX-1-001E footprint")
+	(tags "IPEX-SMD_BWIPX-1-001E footprint C5137195")
+	(property "Reference" "J2"
+		(at 0.7 -3.47 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b4d29035-b6cd-40f8-acc8-0c5f07d94c5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "U.FL"
+		(at 0.7 3.47 0)
+		(layer "F.Fab")
+		(uuid "6432b891-ca0f-4f98-8d88-8574d34d215d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208151830_BAT-WIRELESS-BWU-FL-IPEX1_C5137195.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a454fe28-3675-4729-a471-96d581fc7947")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f98099bf-b383-49d6-bf54-207a833c82ea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C5137195"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be6d1c17-52bf-4c6b-86ba-1bc7fa4e7b81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(zone_connect 2)
+	(attr smd)
+	(fp_line
+		(start -0.64 -1.27)
+		(end -0.64 -0.73)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8acbff74-c445-44d2-9e80-aea24d3cb0a8")
+	)
+	(fp_line
+		(start -0.64 0.73)
+		(end -0.64 1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3af96156-fe59-4159-aba4-5528eee3eced")
+	)
+	(fp_line
+		(start -0.64 1.27)
+		(end -0.569999 1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "89a1a36c-6108-4254-959e-209ed3fe91f2")
+	)
+	(fp_line
+		(start -0.569999 -1.27)
+		(end -0.64 -1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e013277b-a0ff-4569-a15b-5460c3908045")
+	)
+	(fp_line
+		(start 2.09 1.27)
+		(end 2.16 1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a920d33f-d1e1-4bfb-ae3c-39df6a6589b6")
+	)
+	(fp_line
+		(start 2.16 -1.27)
+		(end 2.09 -1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8b569ac-37b9-4527-9336-f48ccdfadded")
+	)
+	(fp_line
+		(start 2.16 -0.73)
+		(end 2.16 -1.27)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1c4d1b7-8f53-454b-a3c2-36f8900e9bdb")
+	)
+	(fp_line
+		(start 2.16 -0.73)
+		(end 2.16 0.73)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "43198c58-e759-4150-a881-3e4021085a9b")
+	)
+	(fp_line
+		(start 2.16 1.27)
+		(end 2.16 0.73)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f802d61-3b84-471a-a04f-006f5fee5a58")
+	)
+	(fp_circle
+		(center -0.79 1.5)
+		(end -0.76 1.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1adc1eea-dbb3-4e76-9d89-f43f8c5fa26e")
+	)
+	(fp_circle
+		(center 0.76 0)
+		(end 1.33 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "83de8110-b667-4b8d-b517-753b0111bb7a")
+	)
+	(fp_line
+		(start -0.9 -1.5)
+		(end 2.4 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec40355a-7c79-4d04-adb7-5c9f1e44ce77")
+	)
+	(fp_line
+		(start -0.9 1.5)
+		(end -0.9 -1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a912c4ef-b8c6-4416-9214-df2e5388821c")
+	)
+	(fp_line
+		(start 2.4 -1.5)
+		(end 2.4 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "99f0550a-f017-48cf-a9e8-147c3d3f019d")
+	)
+	(fp_line
+		(start 2.4 1.5)
+		(end -0.9 1.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0ce3c20d-e6b4-4700-beba-b8cafd9d7dfd")
+	)
+	(fp_circle
+		(center -1.02 0)
+		(end -0.92 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e636c673-a37f-4600-989c-340dcc7aaf6c")
+	)
+	(fp_text user "REF**"
+		(at 0.7 5.47 0)
+		(layer "F.Fab")
+		(uuid "9ca3fa21-8d21-45d1-894a-1362dc3b032b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.75 0 180)
+		(size 1.05 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "987d5bab-6a41-42ae-b367-69a10ee56214")
+	)
+	(pad "2" smd roundrect
+		(at 0.75 1.35 180)
+		(size 2.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2380952381)
+		(uuid "8e21f22c-cfc7-440c-9580-3cc3aabeb174")
+	)
+	(pad "3" smd roundrect
+		(at 0.75 -1.35 180)
+		(size 2.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2380952381)
+		(uuid "72836822-ff41-45b0-918b-9558f94161f9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IPEX-SMD_BWIPX-1-001E.step"
+		(offset
+			(xyz 0.7599933886 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
