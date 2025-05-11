@@ -12027,16 +12027,6 @@
 		)
 		(uuid "03a6b661-fb26-4884-9c77-3981b59c9a6d")
 	)
-	(label "AUX3"
-		(at 198.12 50.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ab93637-0636-4ec9-850f-47bab9610a48")
-	)
 	(label "AUX5"
 		(at 152.4 68.58 180)
 		(effects
@@ -12056,16 +12046,6 @@
 			(justify right bottom)
 		)
 		(uuid "0bb1a47d-4e2d-4a07-a019-6dbbe5702d63")
-	)
-	(label "AMP_LRCLK"
-		(at 198.12 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1342bb06-670d-4d6b-8f38-c933d2ba6988")
 	)
 	(label "INPUT1{slash}AUX7"
 		(at 78.74 30.48 180)
@@ -12127,16 +12107,6 @@
 		)
 		(uuid "2a08b4c4-c120-4785-9613-0b3d276f4edd")
 	)
-	(label "AMP_SD_MODE"
-		(at 198.12 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32819a67-885e-46da-914a-c5933257ac5c")
-	)
 	(label "Speaker+"
 		(at 266.7 134.62 0)
 		(effects
@@ -12197,6 +12167,16 @@
 		)
 		(uuid "45269b17-6a2f-4274-8162-7481f7b0d60c")
 	)
+	(label "TRACK_LEFT"
+		(at 152.4 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4549029c-5aa2-4cce-bbe4-9887abf18fe6")
+	)
 	(label "Motor2"
 		(at 109.22 40.64 0)
 		(effects
@@ -12206,6 +12186,16 @@
 			(justify left bottom)
 		)
 		(uuid "460fb6f3-0f28-408c-9bad-2beaf43e969d")
+	)
+	(label "AMP_LRCLK"
+		(at 198.12 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "470fe8f6-8fa2-43be-9560-7fe1584e262f")
 	)
 	(label "TRACK_LEFT"
 		(at 314.96 7.62 0)
@@ -12337,16 +12327,6 @@
 		)
 		(uuid "7ff996c6-34e9-457f-b1a6-443b161890d8")
 	)
-	(label "VMOTOR_PG"
-		(at 198.12 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8189655a-228d-4f35-a876-f4301a99ee69")
-	)
 	(label "FRONT"
 		(at 198.12 71.12 0)
 		(effects
@@ -12366,16 +12346,6 @@
 			(justify left bottom)
 		)
 		(uuid "83a3d67b-66e1-42fe-b43b-131551bb5ba4")
-	)
-	(label "TRACK_LEFT"
-		(at 152.4 33.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "84c446c8-8013-4f7e-a40f-58c1941c6575")
 	)
 	(label "AMP_DIN"
 		(at 241.3 134.62 180)
@@ -12477,16 +12447,6 @@
 		)
 		(uuid "9859127c-69ce-48f2-8810-03a9c629962a")
 	)
-	(label "TRACK_RIGHT"
-		(at 152.4 38.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9d5f7370-f0ae-476d-8182-13d6bde0b75a")
-	)
 	(label "+V_SENSE"
 		(at 335.28 7.62 0)
 		(effects
@@ -12496,6 +12456,16 @@
 			(justify left bottom)
 		)
 		(uuid "9fcde997-97f9-4554-9c88-5bab843f180e")
+	)
+	(label "AUX3"
+		(at 198.12 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0bf2977-774c-46d4-95d7-26683bd0f0be")
 	)
 	(label "AUX6"
 		(at 78.74 35.56 180)
@@ -12597,6 +12567,16 @@
 		)
 		(uuid "b421b390-18d3-4e9c-83b7-cca443e85416")
 	)
+	(label "TRACK_RIGHT"
+		(at 152.4 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b6cb0962-20be-4d0c-8f88-12ab381ca9bb")
+	)
 	(label "ZBDTA{slash}D+"
 		(at 78.74 43.18 180)
 		(effects
@@ -12676,6 +12656,16 @@
 			(justify right bottom)
 		)
 		(uuid "d099757b-8218-43c0-9429-311380615d74")
+	)
+	(label "AMP_SD_MODE"
+		(at 198.12 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d2c2ec27-2c7f-4ecf-90ba-28dadce1ee55")
 	)
 	(label "Speaker-"
 		(at 78.74 53.34 180)
@@ -12757,6 +12747,16 @@
 		)
 		(uuid "ee99174b-4246-47ce-a23a-b4c20014da8a")
 	)
+	(label "MOTOR_CURRENT"
+		(at 152.4 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eec0f02d-f32e-444c-a825-cb92fb195d28")
+	)
 	(label "front"
 		(at 88.9 124.46 180)
 		(effects
@@ -12787,6 +12787,16 @@
 		)
 		(uuid "f8433859-6353-4c0f-a466-1270e3075827")
 	)
+	(label "VMOTOR_PG"
+		(at 198.12 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb2fe46b-e787-4e04-af6a-9e4ab3cece38")
+	)
 	(label "ESP32_RX"
 		(at 205.74 78.74 0)
 		(effects
@@ -12806,16 +12816,6 @@
 			(justify left bottom)
 		)
 		(uuid "fbdc58a0-1e1e-4d70-aaaa-11fb701135d3")
-	)
-	(label "MOTOR_CURRENT"
-		(at 152.4 30.48 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fe1aacfc-05fd-4ca3-9e49-3ab2812bfb44")
 	)
 	(label "ZBCLK{slash}D-"
 		(at 78.74 40.64 180)
