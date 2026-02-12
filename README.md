@@ -4,6 +4,8 @@
 
 A miniature DCC decoder for model railways featuring an ESP32-S3 microcontroller, designed to fit standard 21-pin sockets. Includes motor control, sound output, and lighting control in a 30x15.5mm footprint (following NMRA spec).
 
+I don't quite have the time to work on this project at the momemnt but Kyle (ProjectInitiative) is starting to work on firmware for this board. You can follow the progress here: [https://github.com/ProjectInitiative/NIMRS-Firmware](https://github.com/ProjectInitiative/NIMRS-Firmware)
+
 ## Features
 
 - **Compact Design**: 30mm × 15.5mm × 1.0mm 4-layer PCB
